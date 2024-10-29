@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 00aee922c105848f4aaf149b3fbadf3a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - NaranjaPrefab: {fileID: 7720130395744682237, guid: f5f4fe987db7241faba83f7636db6e90, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
